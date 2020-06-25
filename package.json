@@ -1,0 +1,21 @@
+{
+  "name": "kgp_bc_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@serialport/list": "^8.0.6",
+    "csv-write-stream": "^2.0.0",
+    "csv-writer": "^1.5.0",
+    "file-to-array-buffer": "^1.0.0",
+    "ipfs-http-client": "^40.2.1",
+    "neat-csv": "^5.2.0",
+    "serialport": "^8.0.6",
+    "web3": "^1.2.4"
+  }
+}
